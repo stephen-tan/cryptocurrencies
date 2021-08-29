@@ -6,13 +6,13 @@ The purpose of this project was to analyze a database of cryptocurrencies using 
 ## Results
 The cryptocurrency database had 1232 crypto coins, though only 532 of them were tradable.
 
-Tradable Cryptocurrencies<br/>
+**Tradable Cryptocurrencies**<br/>
 ![Tradable Cryptocurrencies](Resources/tradable_cryptocurrencies.png)<br/>
 
-3D Scatter Plot
+**3D Scatter Plot**<br/>
 ![3D Scatter Plot](Resources/3d_scatter_plot.png)<br/>
 
-2D hvPlot
+**2D hvPlot**<br/>
 ![Bokeh Plot](Resources/bokeh_plot.png)<br/>
 
 ## Summary
